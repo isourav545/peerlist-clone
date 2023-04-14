@@ -9,6 +9,11 @@
   justify-content: center;
   align-items: center;
 }
+
+button {
+    all: unset;
+    cursor: pointer;
+  }
 .header-content {
   display: flex;
   /* justify-content: center;
